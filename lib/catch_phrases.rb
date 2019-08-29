@@ -15,4 +15,4 @@ def link
   puts say
 end
 def any_phrase
-  say=""
+  say="takes in an argument and puts out the catch phrase"
